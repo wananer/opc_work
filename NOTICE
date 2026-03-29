@@ -1,0 +1,20 @@
+# NOTICE
+
+This project is based on the excellent work from [cft0808/edict](https://github.com/cft0808/edict).
+
+## Original Copyright
+
+Copyright (c) 2026 cft0808
+
+## License
+
+This project is distributed under the MIT License, same as the original work.
+
+## Changes made in this fork
+
+- Merged into the shared repository `wananer/opc_work` for the OpenClaw Three Cabinets Six Ministries collaboration
+- Updated repository URLs to point to `wananer/opc_work`
+- Keep the original architecture, documentation, and code intact
+- Compatible with existing OpenClaw installation
+
+The original author retains all copyrights to their work.

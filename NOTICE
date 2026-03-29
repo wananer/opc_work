@@ -1,20 +1,17 @@
 # NOTICE
 
-This project is based on the excellent work from [cft0808/edict](https://github.com/cft0808/edict).
+This collaborative repository is based on the original architectural design from:
+- **Original project**: [cft0808/edict](https://github.com/cft0808/edict)
+- **Original author**: cft0808
 
-## Original Copyright
+## Architecture Inspiration
 
-Copyright (c) 2026 cft0808
+The three Cabinets and Six Ministries (三省六部) architectural concept originates from the original edict project. We reuse the core design principles under the MIT license with full attribution to the original author.
 
-## License
+## This Repository
 
-This project is distributed under the MIT License, same as the original work.
+This fork is maintained by:
+- GitHub: https://github.com/wananer/opc_work
+- Used for collaborative creation by the OpenClaw Sansheng Liubu working group
 
-## Changes made in this fork
-
-- Merged into the shared repository `wananer/opc_work` for the OpenClaw Three Cabinets Six Ministries collaboration
-- Updated repository URLs to point to `wananer/opc_work`
-- Keep the original architecture, documentation, and code intact
-- Compatible with existing OpenClaw installation
-
-The original author retains all copyrights to their work.
+All original copyrights are retained by the original author.
